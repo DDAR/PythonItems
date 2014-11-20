@@ -1,3 +1,3 @@
 PythonItems
 ===========
-Learning how to use Git Hub so this is a bunch of garbage.
+Learning how to use Git Hub so this has some random python scripts that I have written.
